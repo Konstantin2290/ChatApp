@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444557078214",
+    "project_id": "chat-app-e3027",
+    "storage_bucket": "chat-app-e3027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444557078214:android:c9939cd01f29a5d34ef1c7",
+        "android_client_info": {
+          "package_name": "com.konstad.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444557078214-am60vqk3u59ti0ar3u4ei0koe1s7ifkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konstad.chatapp",
+            "certificate_hash": "0d1b1c7cf4bc6d1053c397d326d802ba9aa5c220"
+          }
+        },
+        {
+          "client_id": "444557078214-n6vu5ef7mgfqvc532lqb9esjdp9p9a7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ1aOYjwnKNV1TYfmULCD6u1lk6-0lq8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444557078214-n6vu5ef7mgfqvc532lqb9esjdp9p9a7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
